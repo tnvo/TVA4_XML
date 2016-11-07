@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Books.xsl"?>
+<Books>
+<!-- 1st book-->
+<Book Cover="Hardcover">
+	<ISBN>978-1595620156</ISBN>
+	<Title>StrengthsFinder 2.0</Title>
+	<Author>
+		<Name>
+			<First>Tom</First>
+			<Last>Wrath</Last>
+		</Name>
+		<Contact Office="CSE101">
+			<Phone>480-965-0000</Phone>
+		</Contact>
+	</Author>
+	<Publisher>Gallup Press</Publisher>
+	<Year Edition="1">2007</Year>
+</Book>
+<!-- 2nd book-->
+<Book Cover="Hardcover">
+	<ISBN>978-0399144462</ISBN>
+	<Title>Who Moved My Cheese?: An Amazing Way to Deal with Change in Your Work and in Your Life</Title>
+	<Author>
+		<Name>
+			<First>Spencer</First>
+			<Last>Johnson</Last>
+		</Name>
+		<Contact Office="CSE102">
+			<Phone>480-965-0001</Phone>
+		</Contact>
+	</Author>
+	<Author>
+		<Name>
+			<First>Kenneth</First>
+			<Last>Blanchard</Last>
+		</Name>
+		<Contact Office="BY103">
+			<Phone>602-598-0002</Phone>
+		</Contact>
+	</Author>
+	<Publisher>G. P. Putnam's Sons</Publisher>
+	<Year Edition="1">1998</Year>
+</Book>
+<!-- 3rd book-->
+<Book Cover="Hardcover">
+	<ISBN>978-0066620992</ISBN>
+	<Title>Good to Great: Why Some Companies Make the Leap and Others Don't</Title>
+	<Author>
+		<Name>
+			<First>Jim</First>
+			<Last>Collins</Last>
+		</Name>
+		<Contact Office="BY104">
+			<Phone>602-598-0003</Phone>
+		</Contact>
+	</Author>
+	<Publisher>Harper Business</Publisher>
+	<Year Edition="1">2001</Year>
+</Book>
+<!-- 4th book-->
+<Book Cover="Hardcover">
+	<ISBN>978-0385349949</ISBN>
+	<Title>Lean In: Women, Work, and the Will to Lead</Title>
+	<Author>
+		<Name>
+			<First>Sheryl</First>
+			<Last>Sandberg</Last>
+		</Name>
+		<Contact Office="BY105">
+			<Phone>480-965-0004</Phone>
+		</Contact>
+    </Author>
+	<Publisher>Knopf</Publisher>
+	<Year Edition="1">2013</Year>
+</Book>
+<!-- 5th book-->
+<Book Cover="Paper back">
+	<ISBN>978-0316067607</ISBN>
+	<Title>Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10</Title>
+	<Author>
+		<Name>
+			<First>Marcus</First>
+			<Last>Luttrell</Last>
+		</Name>
+		<Contact Office="BY107">
+			<Phone>480-965-0006</Phone>
+		</Contact>
+	</Author>
+	<Author>
+		<Name>
+			<First>Patrick</First>
+			<Last>Robinson</Last>
+		</Name>
+		<Contact Office="BY108">
+			<Phone>480-965-0007</Phone>
+		</Contact>
+	</Author>
+	<Publisher>Back Bay Books</Publisher>
+	<Year Edition="1">2008</Year>
+</Book>
+<!-- 6th book-->
+<Book Cover="Hardcover">
+	<ISBN>978-1595621115</ISBN>
+	<Title>First, Break All The Rules: What the World's Greatest Managers Do Differently</Title>
+	<Author>
+		<Name>
+			<First>James</First>
+			<Last>Harter</Last>
+		</Name>
+		<Contact Office="BY111">
+			<Phone>480-965-0010</Phone>
+		</Contact>
+	</Author>
+	<Publisher>Gallup Press</Publisher>
+	<Year Edition="1">2015</Year>
+</Book>
+<!-- 7th book -->
+<Book Cover="Paper back">
+	<ISBN>978-0307887894</ISBN>
+	<Title>The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</Title>
+	<Author>
+		<Name>
+			<First>Eric</First>
+			<Last>Ries</Last>
+		</Name>
+		<Contact Office="BY112">
+			<Phone>480-965-0011</Phone>
+		</Contact>
+	</Author>
+	<Publisher>Crown Business</Publisher>
+	<Year Edition="1">2011</Year>
+</Book>
+<!-- 8th book -->
+<Book Cover="Paper back">
+	<ISBN>978-0071771320</ISBN>
+	<Title>Crucial Conversations Tools for Talking When Stakes Are High, Second Edition</Title>
+	<Author>
+		<Name>
+			<First>Kerry</First>
+			<Last>Patterson</Last>
+		</Name>
+		<Contact Office="BY115">
+			<Phone>480-965-0014</Phone>
+		</Contact>
+	</Author>
+    <Author>
+    <Name>
+        <First>Joseph</First>
+        <Last>Grenny</Last>
+    </Name>
+    <Contact Office="BY115">
+        <Phone>480-965-0014</Phone>
+    </Contact>
+</Author>
+	<Publisher>McGraw-Hill Education</Publisher>
+	<Year Edition="2">2011</Year>
+</Book>
+<!-- 9th book -->
+<Book Cover="Paper back">
+	<ISBN>978-0060566104</ISBN>
+	<Title>Built to Last: Successful Habits of Visionary Companies</Title>
+	<Author>
+		<Name>
+			<First>Jim</First>
+			<Last>Collins</Last>
+		</Name>
+		<Contact Office="BY116">
+			<Phone>480-965-0015</Phone>
+		</Contact>
+	</Author>
+    <Author>
+    <Name>
+        <First>Jerry</First>
+        <Last>Porras</Last>
+    </Name>
+    <Contact Office="BY116">
+        <Phone>480-965-0015</Phone>
+    </Contact>
+</Author>
+	<Publisher>HarperBusiness</Publisher>
+	<Year Edition="10">2004</Year>
+</Book>
+<!-- 10th book -->
+<Book Cover="Paper back">
+	<ISBN>978-0071418584</ISBN>
+	<Title>How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships</Title>
+	<Author>
+		<Name>
+			<First>Leil</First>
+			<Last>Lowndes</Last>
+		</Name>
+		<Contact Office="BY117">
+			<Phone>480-965-0016</Phone>
+		</Contact>
+	</Author>
+	<Publisher>McGraw-Hill Education</Publisher>
+	<Year Edition="1">2003</Year>
+</Book>
+</Books>
